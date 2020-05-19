@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brandoncastor/Documents/CS530/A3/bnf.cpp
+iostream
+-
+vector
+-
+string
+-
+bnf.h
+/Users/brandoncastor/Documents/CS530/A3/bnf.h
+stack
+-
+algorithm
+-
+
+/Users/brandoncastor/Documents/CS530/A3/bnf.h
+iostream
+-
+string
+-
+

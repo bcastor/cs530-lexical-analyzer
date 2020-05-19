@@ -1,0 +1,35 @@
+first = one1 + two2 - three3 / four4 ;
+second = one1 * (two2 * three3) ; 
+second = one1 * (two2 * three3) ; 
+third = ONE + twenty - three3 ;
+third = old * thirty2 / b567 ; 
+one1 * i8766e98e + bignum
+first = = one1 + two2 - three3 / four4 ;
+*** more than one '=' operator ***
+=
+****operator must be followed by a valid id****
+first = one1 + two2 - three3 / four4
+**** missing semicolon ****
+first = 1 + - two2 - three3 / four4 ;
+**** Id does not have the right format, must begin with char ****
+=
+****operator must be followed by a valid id****
++
+****operator must be followed by a valid id****
+first = one1 + two2 ? three3 / four4 ;
+**** unknown character ****
+**** Id does not have the right format, must begin with char ****
+second = 4 + (one1 * two2)  *  (three3 + four4 ; 
+**** bracket is not closed ****
+**** Id does not have the right format, must begin with char ****
+=
+****operator must be followed by a valid id****
+third = one1 + 24 - three3 ;
+**** Id does not have the right format, must begin with char ****
++
+****operator must be followed by a valid id****
+one1 +- delta
++-
+****operator must be followed by a valid id****
+sixty6 / min = fourth ;
+**** wrong assignment format ****
